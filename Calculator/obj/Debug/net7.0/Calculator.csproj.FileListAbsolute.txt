@@ -1,0 +1,12 @@
+D:\JalaUniversity\Backend\Practicas\Calculator\bin\Debug\net7.0\Calculator.deps.json
+D:\JalaUniversity\Backend\Practicas\Calculator\bin\Debug\net7.0\Calculator.dll
+D:\JalaUniversity\Backend\Practicas\Calculator\bin\Debug\net7.0\Calculator.pdb
+D:\JalaUniversity\Backend\Practicas\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+D:\JalaUniversity\Backend\Practicas\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\JalaUniversity\Backend\Practicas\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+D:\JalaUniversity\Backend\Practicas\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+D:\JalaUniversity\Backend\Practicas\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+D:\JalaUniversity\Backend\Practicas\Calculator\obj\Debug\net7.0\Calculator.dll
+D:\JalaUniversity\Backend\Practicas\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+D:\JalaUniversity\Backend\Practicas\Calculator\obj\Debug\net7.0\Calculator.pdb
+D:\JalaUniversity\Backend\Practicas\Calculator\obj\Debug\net7.0\ref\Calculator.dll
